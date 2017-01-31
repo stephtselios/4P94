@@ -1,0 +1,1064 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9dd76cf6-3cca-4393-83d8-203392926da9" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-statistical-analysis-python-tutorial-master/.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-statistical-analysis-python-tutorial-master/1. Introduction to Pandas.ipynb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-statistical-analysis-python-tutorial-master/2. Data Wrangling with Pandas.ipynb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-statistical-analysis-python-tutorial-master/3. Plotting and Visualization.ipynb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-statistical-analysis-python-tutorial-master/4. Statistical Data Modeling.ipynb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-statistical-analysis-python-tutorial-master/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-statistical-analysis-python-tutorial-master/data/AIS/transit_segments.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-statistical-analysis-python-tutorial-master/data/AIS/vessel_information.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-statistical-analysis-python-tutorial-master/data/baseball.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-statistical-analysis-python-tutorial-master/data/cdystonia.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-statistical-analysis-python-tutorial-master/data/measles.xlsx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-statistical-analysis-python-tutorial-master/data/microbiome.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-statistical-analysis-python-tutorial-master/data/microbiome/MID1.xls" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-statistical-analysis-python-tutorial-master/data/microbiome/MID2.xls" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-statistical-analysis-python-tutorial-master/data/microbiome/MID3.xls" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-statistical-analysis-python-tutorial-master/data/microbiome/MID4.xls" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-statistical-analysis-python-tutorial-master/data/microbiome/MID5.xls" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-statistical-analysis-python-tutorial-master/data/microbiome/MID6.xls" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-statistical-analysis-python-tutorial-master/data/microbiome/MID7.xls" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-statistical-analysis-python-tutorial-master/data/microbiome/MID8.xls" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-statistical-analysis-python-tutorial-master/data/microbiome/MID9.xls" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-statistical-analysis-python-tutorial-master/data/microbiome/metadata.xls" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-statistical-analysis-python-tutorial-master/data/microbiome_missing.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-statistical-analysis-python-tutorial-master/data/names/NationalReadMe.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-statistical-analysis-python-tutorial-master/data/names/yob1880.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-statistical-analysis-python-tutorial-master/data/names/yob1881.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-statistical-analysis-python-tutorial-master/data/names/yob1882.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-statistical-analysis-python-tutorial-master/data/names/yob1883.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-statistical-analysis-python-tutorial-master/data/names/yob1884.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-statistical-analysis-python-tutorial-master/data/names/yob1885.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-statistical-analysis-python-tutorial-master/data/names/yob1886.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-statistical-analysis-python-tutorial-master/data/names/yob1887.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-statistical-analysis-python-tutorial-master/data/names/yob1888.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-statistical-analysis-python-tutorial-master/data/names/yob1889.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-statistical-analysis-python-tutorial-master/data/names/yob1890.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-statistical-analysis-python-tutorial-master/data/names/yob1891.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-statistical-analysis-python-tutorial-master/data/names/yob1892.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-statistical-analysis-python-tutorial-master/data/names/yob1893.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-statistical-analysis-python-tutorial-master/data/names/yob1894.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-statistical-analysis-python-tutorial-master/data/names/yob1895.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-statistical-analysis-python-tutorial-master/data/names/yob1896.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-statistical-analysis-python-tutorial-master/data/names/yob1897.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-statistical-analysis-python-tutorial-master/data/names/yob1898.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-statistical-analysis-python-tutorial-master/data/names/yob1899.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-statistical-analysis-python-tutorial-master/data/names/yob1900.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-statistical-analysis-python-tutorial-master/data/names/yob1901.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-statistical-analysis-python-tutorial-master/data/names/yob1902.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-statistical-analysis-python-tutorial-master/data/names/yob1903.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-statistical-analysis-python-tutorial-master/data/names/yob1904.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-statistical-analysis-python-tutorial-master/data/names/yob1905.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-statistical-analysis-python-tutorial-master/data/names/yob1906.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-statistical-analysis-python-tutorial-master/data/names/yob1907.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-statistical-analysis-python-tutorial-master/data/names/yob1908.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-statistical-analysis-python-tutorial-master/data/names/yob1909.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-statistical-analysis-python-tutorial-master/data/names/yob1910.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-statistical-analysis-python-tutorial-master/data/names/yob1911.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-statistical-analysis-python-tutorial-master/data/names/yob1912.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-statistical-analysis-python-tutorial-master/data/names/yob1913.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-statistical-analysis-python-tutorial-master/data/names/yob1914.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-statistical-analysis-python-tutorial-master/data/names/yob1915.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-statistical-analysis-python-tutorial-master/data/names/yob1916.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-statistical-analysis-python-tutorial-master/data/names/yob1917.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-statistical-analysis-python-tutorial-master/data/names/yob1918.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-statistical-analysis-python-tutorial-master/data/names/yob1919.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-statistical-analysis-python-tutorial-master/data/names/yob1920.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-statistical-analysis-python-tutorial-master/data/names/yob1921.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-statistical-analysis-python-tutorial-master/data/names/yob1922.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-statistical-analysis-python-tutorial-master/data/names/yob1923.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-statistical-analysis-python-tutorial-master/data/names/yob1924.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-statistical-analysis-python-tutorial-master/data/names/yob1925.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-statistical-analysis-python-tutorial-master/data/names/yob1926.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-statistical-analysis-python-tutorial-master/data/names/yob1927.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-statistical-analysis-python-tutorial-master/data/names/yob1928.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-statistical-analysis-python-tutorial-master/data/names/yob1929.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-statistical-analysis-python-tutorial-master/data/names/yob1930.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-statistical-analysis-python-tutorial-master/data/names/yob1931.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-statistical-analysis-python-tutorial-master/data/names/yob1932.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-statistical-analysis-python-tutorial-master/data/names/yob1933.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-statistical-analysis-python-tutorial-master/data/names/yob1934.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-statistical-analysis-python-tutorial-master/data/names/yob1935.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-statistical-analysis-python-tutorial-master/data/names/yob1936.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-statistical-analysis-python-tutorial-master/data/names/yob1937.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-statistical-analysis-python-tutorial-master/data/names/yob1938.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-statistical-analysis-python-tutorial-master/data/names/yob1939.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-statistical-analysis-python-tutorial-master/data/names/yob1940.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-statistical-analysis-python-tutorial-master/data/names/yob1941.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-statistical-analysis-python-tutorial-master/data/names/yob1942.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-statistical-analysis-python-tutorial-master/data/names/yob1943.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-statistical-analysis-python-tutorial-master/data/names/yob1944.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-statistical-analysis-python-tutorial-master/data/names/yob1945.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-statistical-analysis-python-tutorial-master/data/names/yob1946.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-statistical-analysis-python-tutorial-master/data/names/yob1947.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-statistical-analysis-python-tutorial-master/data/names/yob1948.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-statistical-analysis-python-tutorial-master/data/names/yob1949.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-statistical-analysis-python-tutorial-master/data/names/yob1950.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-statistical-analysis-python-tutorial-master/data/names/yob1951.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-statistical-analysis-python-tutorial-master/data/names/yob1952.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-statistical-analysis-python-tutorial-master/data/names/yob1953.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-statistical-analysis-python-tutorial-master/data/names/yob1954.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-statistical-analysis-python-tutorial-master/data/names/yob1955.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-statistical-analysis-python-tutorial-master/data/names/yob1956.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-statistical-analysis-python-tutorial-master/data/names/yob1957.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-statistical-analysis-python-tutorial-master/data/names/yob1958.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-statistical-analysis-python-tutorial-master/data/names/yob1959.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-statistical-analysis-python-tutorial-master/data/names/yob1960.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-statistical-analysis-python-tutorial-master/data/names/yob1961.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-statistical-analysis-python-tutorial-master/data/names/yob1962.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-statistical-analysis-python-tutorial-master/data/names/yob1963.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-statistical-analysis-python-tutorial-master/data/names/yob1964.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-statistical-analysis-python-tutorial-master/data/names/yob1965.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-statistical-analysis-python-tutorial-master/data/names/yob1966.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-statistical-analysis-python-tutorial-master/data/names/yob1967.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-statistical-analysis-python-tutorial-master/data/names/yob1968.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-statistical-analysis-python-tutorial-master/data/names/yob1969.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-statistical-analysis-python-tutorial-master/data/names/yob1970.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-statistical-analysis-python-tutorial-master/data/names/yob1971.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-statistical-analysis-python-tutorial-master/data/names/yob1972.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-statistical-analysis-python-tutorial-master/data/names/yob1973.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-statistical-analysis-python-tutorial-master/data/names/yob1974.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-statistical-analysis-python-tutorial-master/data/names/yob1975.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-statistical-analysis-python-tutorial-master/data/names/yob1976.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-statistical-analysis-python-tutorial-master/data/names/yob1977.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-statistical-analysis-python-tutorial-master/data/names/yob1978.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-statistical-analysis-python-tutorial-master/data/names/yob1979.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-statistical-analysis-python-tutorial-master/data/names/yob1980.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-statistical-analysis-python-tutorial-master/data/names/yob1981.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-statistical-analysis-python-tutorial-master/data/names/yob1982.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-statistical-analysis-python-tutorial-master/data/names/yob1983.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-statistical-analysis-python-tutorial-master/data/names/yob1984.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-statistical-analysis-python-tutorial-master/data/names/yob1985.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-statistical-analysis-python-tutorial-master/data/names/yob1986.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-statistical-analysis-python-tutorial-master/data/names/yob1987.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-statistical-analysis-python-tutorial-master/data/names/yob1988.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-statistical-analysis-python-tutorial-master/data/names/yob1989.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-statistical-analysis-python-tutorial-master/data/names/yob1990.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-statistical-analysis-python-tutorial-master/data/names/yob1991.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-statistical-analysis-python-tutorial-master/data/names/yob1992.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-statistical-analysis-python-tutorial-master/data/names/yob1993.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-statistical-analysis-python-tutorial-master/data/names/yob1994.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-statistical-analysis-python-tutorial-master/data/names/yob1995.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-statistical-analysis-python-tutorial-master/data/names/yob1996.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-statistical-analysis-python-tutorial-master/data/names/yob1997.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-statistical-analysis-python-tutorial-master/data/names/yob1998.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-statistical-analysis-python-tutorial-master/data/names/yob1999.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-statistical-analysis-python-tutorial-master/data/names/yob2000.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-statistical-analysis-python-tutorial-master/data/names/yob2001.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-statistical-analysis-python-tutorial-master/data/names/yob2002.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-statistical-analysis-python-tutorial-master/data/names/yob2003.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-statistical-analysis-python-tutorial-master/data/names/yob2004.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-statistical-analysis-python-tutorial-master/data/names/yob2005.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-statistical-analysis-python-tutorial-master/data/names/yob2006.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-statistical-analysis-python-tutorial-master/data/names/yob2007.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-statistical-analysis-python-tutorial-master/data/names/yob2008.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-statistical-analysis-python-tutorial-master/data/names/yob2009.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-statistical-analysis-python-tutorial-master/data/names/yob2010.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-statistical-analysis-python-tutorial-master/data/names/yob2011.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-statistical-analysis-python-tutorial-master/data/nashville_precip.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-statistical-analysis-python-tutorial-master/data/titanic.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-statistical-analysis-python-tutorial-master/data/titanic.xls" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-statistical-analysis-python-tutorial-master/data/vlbw.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-statistical-analysis-python-tutorial-master/exercise_solutions.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02-sports markets/02a-player_salaries.ipynb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02-sports markets/mlb_payroll_performance_2014.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02-sports markets/mlb_player_salaries_2015.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02-sports markets/nba_player_salaries_2015.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02-sports markets/nfl_player_salaries_2015.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/PythonIntroduction.iml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/include/python2.7" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/UserDict.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/_abcoll.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/_weakrefset.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/abc.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/codecs.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/config" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/copy_reg.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/distutils/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/distutils/distutils.cfg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/encodings" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/fnmatch.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/genericpath.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/lib-dynload" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/linecache.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/locale.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/no-global-site-packages.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/ntpath.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/orig-prefix.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/os.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/posixpath.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/re.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/_markerlib/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/_markerlib/markers.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/easy_install.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/pip-7.1.0.dist-info/DESCRIPTION.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/pip-7.1.0.dist-info/METADATA" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/pip-7.1.0.dist-info/RECORD" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/pip-7.1.0.dist-info/WHEEL" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/pip-7.1.0.dist-info/entry_points.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/pip-7.1.0.dist-info/metadata.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/pip-7.1.0.dist-info/pbr.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/pip-7.1.0.dist-info/top_level.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/pip/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/pip/__main__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/pip/_vendor/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/pip/_vendor/_markerlib/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/pip/_vendor/_markerlib/markers.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/pip/_vendor/cachecontrol/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/pip/_vendor/cachecontrol/adapter.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/pip/_vendor/cachecontrol/cache.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/pip/_vendor/cachecontrol/caches/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/pip/_vendor/cachecontrol/caches/file_cache.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/pip/_vendor/cachecontrol/caches/redis_cache.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/pip/_vendor/cachecontrol/compat.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/pip/_vendor/cachecontrol/controller.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/pip/_vendor/cachecontrol/filewrapper.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/pip/_vendor/cachecontrol/heuristics.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/pip/_vendor/cachecontrol/serialize.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/pip/_vendor/cachecontrol/wrapper.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/pip/_vendor/colorama/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/pip/_vendor/colorama/ansi.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/pip/_vendor/colorama/ansitowin32.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/pip/_vendor/colorama/initialise.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/pip/_vendor/colorama/win32.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/pip/_vendor/colorama/winterm.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/pip/_vendor/distlib/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/pip/_vendor/distlib/_backport/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/pip/_vendor/distlib/_backport/misc.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/pip/_vendor/distlib/_backport/shutil.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/pip/_vendor/distlib/_backport/sysconfig.cfg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/pip/_vendor/distlib/_backport/sysconfig.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/pip/_vendor/distlib/_backport/tarfile.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/pip/_vendor/distlib/compat.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/pip/_vendor/distlib/database.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/pip/_vendor/distlib/index.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/pip/_vendor/distlib/locators.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/pip/_vendor/distlib/manifest.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/pip/_vendor/distlib/markers.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/pip/_vendor/distlib/metadata.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/pip/_vendor/distlib/resources.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/pip/_vendor/distlib/scripts.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/pip/_vendor/distlib/t32.exe" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/pip/_vendor/distlib/t64.exe" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/pip/_vendor/distlib/util.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/pip/_vendor/distlib/version.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/pip/_vendor/distlib/w32.exe" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/pip/_vendor/distlib/w64.exe" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/pip/_vendor/distlib/wheel.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/pip/_vendor/html5lib/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/pip/_vendor/html5lib/constants.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/pip/_vendor/html5lib/filters/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/pip/_vendor/html5lib/filters/_base.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/pip/_vendor/html5lib/filters/alphabeticalattributes.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/pip/_vendor/html5lib/filters/inject_meta_charset.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/pip/_vendor/html5lib/filters/lint.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/pip/_vendor/html5lib/filters/optionaltags.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/pip/_vendor/html5lib/filters/sanitizer.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/pip/_vendor/html5lib/filters/whitespace.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/pip/_vendor/html5lib/html5parser.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/pip/_vendor/html5lib/ihatexml.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/pip/_vendor/html5lib/inputstream.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/pip/_vendor/html5lib/sanitizer.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/pip/_vendor/html5lib/serializer/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/pip/_vendor/html5lib/serializer/htmlserializer.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/pip/_vendor/html5lib/tokenizer.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/pip/_vendor/html5lib/treeadapters/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/pip/_vendor/html5lib/treeadapters/sax.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/pip/_vendor/html5lib/treebuilders/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/pip/_vendor/html5lib/treebuilders/_base.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/pip/_vendor/html5lib/treebuilders/dom.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/pip/_vendor/html5lib/treebuilders/etree.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/pip/_vendor/html5lib/treebuilders/etree_lxml.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/pip/_vendor/html5lib/treewalkers/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/pip/_vendor/html5lib/treewalkers/_base.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/pip/_vendor/html5lib/treewalkers/dom.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/pip/_vendor/html5lib/treewalkers/etree.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/pip/_vendor/html5lib/treewalkers/genshistream.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/pip/_vendor/html5lib/treewalkers/lxmletree.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/pip/_vendor/html5lib/treewalkers/pulldom.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/pip/_vendor/html5lib/trie/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/pip/_vendor/html5lib/trie/_base.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/pip/_vendor/html5lib/trie/datrie.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/pip/_vendor/html5lib/trie/py.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/pip/_vendor/html5lib/utils.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/pip/_vendor/ipaddress.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/pip/_vendor/lockfile/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/pip/_vendor/lockfile/linklockfile.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/pip/_vendor/lockfile/mkdirlockfile.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/pip/_vendor/lockfile/pidlockfile.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/pip/_vendor/lockfile/sqlitelockfile.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/pip/_vendor/lockfile/symlinklockfile.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/pip/_vendor/packaging/__about__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/pip/_vendor/packaging/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/pip/_vendor/packaging/_compat.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/pip/_vendor/packaging/_structures.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/pip/_vendor/packaging/specifiers.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/pip/_vendor/packaging/version.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/pip/_vendor/pkg_resources/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/pip/_vendor/progress/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/pip/_vendor/progress/bar.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/pip/_vendor/progress/counter.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/pip/_vendor/progress/helpers.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/pip/_vendor/progress/spinner.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/pip/_vendor/re-vendor.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/pip/_vendor/requests/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/pip/_vendor/requests/adapters.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/pip/_vendor/requests/api.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/pip/_vendor/requests/auth.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/pip/_vendor/requests/cacert.pem" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/pip/_vendor/requests/certs.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/pip/_vendor/requests/compat.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/pip/_vendor/requests/cookies.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/pip/_vendor/requests/exceptions.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/pip/_vendor/requests/hooks.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/pip/_vendor/requests/models.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/pip/_vendor/requests/packages/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/pip/_vendor/requests/packages/chardet/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/pip/_vendor/requests/packages/chardet/big5freq.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/pip/_vendor/requests/packages/chardet/big5prober.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/pip/_vendor/requests/packages/chardet/chardetect.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/pip/_vendor/requests/packages/chardet/chardistribution.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/pip/_vendor/requests/packages/chardet/charsetgroupprober.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/pip/_vendor/requests/packages/chardet/charsetprober.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/pip/_vendor/requests/packages/chardet/codingstatemachine.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/pip/_vendor/requests/packages/chardet/compat.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/pip/_vendor/requests/packages/chardet/constants.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/pip/_vendor/requests/packages/chardet/cp949prober.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/pip/_vendor/requests/packages/chardet/escprober.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/pip/_vendor/requests/packages/chardet/escsm.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/pip/_vendor/requests/packages/chardet/eucjpprober.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/pip/_vendor/requests/packages/chardet/euckrfreq.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/pip/_vendor/requests/packages/chardet/euckrprober.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/pip/_vendor/requests/packages/chardet/euctwfreq.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/pip/_vendor/requests/packages/chardet/euctwprober.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/pip/_vendor/requests/packages/chardet/gb2312freq.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/pip/_vendor/requests/packages/chardet/gb2312prober.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/pip/_vendor/requests/packages/chardet/hebrewprober.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/pip/_vendor/requests/packages/chardet/jisfreq.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/pip/_vendor/requests/packages/chardet/jpcntx.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/pip/_vendor/requests/packages/chardet/langbulgarianmodel.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/pip/_vendor/requests/packages/chardet/langcyrillicmodel.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/pip/_vendor/requests/packages/chardet/langgreekmodel.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/pip/_vendor/requests/packages/chardet/langhebrewmodel.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/pip/_vendor/requests/packages/chardet/langhungarianmodel.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/pip/_vendor/requests/packages/chardet/langthaimodel.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/pip/_vendor/requests/packages/chardet/latin1prober.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/pip/_vendor/requests/packages/chardet/mbcharsetprober.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/pip/_vendor/requests/packages/chardet/mbcsgroupprober.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/pip/_vendor/requests/packages/chardet/mbcssm.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/pip/_vendor/requests/packages/chardet/sbcharsetprober.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/pip/_vendor/requests/packages/chardet/sbcsgroupprober.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/pip/_vendor/requests/packages/chardet/sjisprober.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/pip/_vendor/requests/packages/chardet/universaldetector.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/pip/_vendor/requests/packages/chardet/utf8prober.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/pip/_vendor/requests/packages/urllib3/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/pip/_vendor/requests/packages/urllib3/_collections.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/pip/_vendor/requests/packages/urllib3/connection.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/pip/_vendor/requests/packages/urllib3/connectionpool.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/pip/_vendor/requests/packages/urllib3/contrib/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/pip/_vendor/requests/packages/urllib3/contrib/ntlmpool.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/pip/_vendor/requests/packages/urllib3/contrib/pyopenssl.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/pip/_vendor/requests/packages/urllib3/exceptions.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/pip/_vendor/requests/packages/urllib3/fields.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/pip/_vendor/requests/packages/urllib3/filepost.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/pip/_vendor/requests/packages/urllib3/packages/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/pip/_vendor/requests/packages/urllib3/packages/ordered_dict.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/pip/_vendor/requests/packages/urllib3/packages/six.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/pip/_vendor/requests/packages/urllib3/packages/ssl_match_hostname/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/pip/_vendor/requests/packages/urllib3/packages/ssl_match_hostname/_implementation.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/pip/_vendor/requests/packages/urllib3/poolmanager.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/pip/_vendor/requests/packages/urllib3/request.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/pip/_vendor/requests/packages/urllib3/response.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/pip/_vendor/requests/packages/urllib3/util/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/pip/_vendor/requests/packages/urllib3/util/connection.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/pip/_vendor/requests/packages/urllib3/util/request.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/pip/_vendor/requests/packages/urllib3/util/response.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/pip/_vendor/requests/packages/urllib3/util/retry.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/pip/_vendor/requests/packages/urllib3/util/ssl_.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/pip/_vendor/requests/packages/urllib3/util/timeout.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/pip/_vendor/requests/packages/urllib3/util/url.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/pip/_vendor/requests/sessions.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/pip/_vendor/requests/status_codes.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/pip/_vendor/requests/structures.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/pip/_vendor/requests/utils.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/pip/_vendor/retrying.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/pip/_vendor/six.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/pip/basecommand.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/pip/baseparser.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/pip/cmdoptions.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/pip/commands/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/pip/commands/completion.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/pip/commands/freeze.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/pip/commands/help.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/pip/commands/install.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/pip/commands/list.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/pip/commands/search.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/pip/commands/show.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/pip/commands/uninstall.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/pip/commands/wheel.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/pip/compat/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/pip/compat/dictconfig.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/pip/download.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/pip/exceptions.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/pip/index.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/pip/locations.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/pip/models/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/pip/models/index.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/pip/operations/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/pip/operations/freeze.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/pip/pep425tags.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/pip/req/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/pip/req/req_file.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/pip/req/req_install.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/pip/req/req_set.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/pip/req/req_uninstall.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/pip/status_codes.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/pip/utils/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/pip/utils/appdirs.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/pip/utils/build.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/pip/utils/deprecation.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/pip/utils/filesystem.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/pip/utils/logging.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/pip/utils/outdated.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/pip/utils/ui.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/pip/vcs/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/pip/vcs/bazaar.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/pip/vcs/git.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/pip/vcs/mercurial.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/pip/vcs/subversion.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/pip/wheel.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/pkg_resources/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/pkg_resources/_vendor/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/pkg_resources/_vendor/packaging/__about__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/pkg_resources/_vendor/packaging/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/pkg_resources/_vendor/packaging/_compat.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/pkg_resources/_vendor/packaging/_structures.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/pkg_resources/_vendor/packaging/specifiers.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/pkg_resources/_vendor/packaging/version.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/setuptools-18.0.1.dist-info/DESCRIPTION.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/setuptools-18.0.1.dist-info/METADATA" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/setuptools-18.0.1.dist-info/RECORD" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/setuptools-18.0.1.dist-info/WHEEL" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/setuptools-18.0.1.dist-info/dependency_links.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/setuptools-18.0.1.dist-info/entry_points.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/setuptools-18.0.1.dist-info/metadata.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/setuptools-18.0.1.dist-info/top_level.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/setuptools-18.0.1.dist-info/zip-safe" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/setuptools/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/setuptools/archive_util.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/setuptools/cli-32.exe" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/setuptools/cli-64.exe" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/setuptools/cli-arm-32.exe" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/setuptools/cli.exe" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/setuptools/command/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/setuptools/command/alias.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/setuptools/command/bdist_egg.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/setuptools/command/bdist_rpm.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/setuptools/command/bdist_wininst.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/setuptools/command/build_ext.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/setuptools/command/build_py.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/setuptools/command/develop.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/setuptools/command/easy_install.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/setuptools/command/egg_info.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/setuptools/command/install.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/setuptools/command/install_egg_info.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/setuptools/command/install_lib.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/setuptools/command/install_scripts.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/setuptools/command/launcher manifest.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/setuptools/command/register.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/setuptools/command/rotate.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/setuptools/command/saveopts.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/setuptools/command/sdist.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/setuptools/command/setopt.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/setuptools/command/test.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/setuptools/command/upload_docs.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/setuptools/compat.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/setuptools/depends.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/setuptools/dist.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/setuptools/extension.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/setuptools/gui-32.exe" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/setuptools/gui-64.exe" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/setuptools/gui-arm-32.exe" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/setuptools/gui.exe" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/setuptools/lib2to3_ex.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/setuptools/msvc9_support.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/setuptools/package_index.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/setuptools/py26compat.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/setuptools/py27compat.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/setuptools/py31compat.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/setuptools/sandbox.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/setuptools/script (dev).tmpl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/setuptools/script.tmpl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/setuptools/site-patch.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/setuptools/ssl_support.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/setuptools/unicode_utils.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/setuptools/utils.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/setuptools/version.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/setuptools/windows_support.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/wheel-0.24.0.dist-info/DESCRIPTION.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/wheel-0.24.0.dist-info/LICENSE.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/wheel-0.24.0.dist-info/METADATA" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/wheel-0.24.0.dist-info/RECORD" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/wheel-0.24.0.dist-info/RECORD.jws" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/wheel-0.24.0.dist-info/WHEEL" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/wheel-0.24.0.dist-info/entry_points.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/wheel-0.24.0.dist-info/metadata.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/wheel-0.24.0.dist-info/top_level.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/wheel/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/wheel/__main__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/wheel/archive.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/wheel/bdist_wheel.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/wheel/decorator.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/wheel/egg2wheel.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/wheel/eggnames.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/wheel/install.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/wheel/metadata.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/wheel/paths.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/wheel/pep425tags.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/wheel/pkginfo.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/wheel/signatures/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/wheel/signatures/djbec.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/wheel/signatures/ed25519py.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/wheel/signatures/keys.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/wheel/test/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/wheel/test/complex-dist/complexdist/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/wheel/test/complex-dist/setup.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/wheel/test/headers.dist/header.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/wheel/test/headers.dist/headersdist.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/wheel/test/headers.dist/setup.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/wheel/test/pydist-schema.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/wheel/test/simple.dist/setup.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/wheel/test/simple.dist/simpledist/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/wheel/test/test-1.0-py2.py3-none-win32.whl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/wheel/test/test_basic.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/wheel/test/test_install.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/wheel/test/test_keys.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/wheel/test/test_paths.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/wheel/test/test_ranking.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/wheel/test/test_signatures.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/wheel/test/test_tagopt.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/wheel/test/test_tool.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/wheel/test/test_wheelfile.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/wheel/tool/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/wheel/util.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site-packages/wheel/wininst2wheel.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/site.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/sre.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/sre_compile.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/sre_constants.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/sre_parse.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/stat.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/types.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib/python2.7/warnings.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/VirtualEnvironment/lib64" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/inspectionProfiles/Project_Default.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/misc.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/modules.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/study_project.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/workspace.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/lesson1/task1/hello_world.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/lesson1/task1/task.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/lesson1/task1/tests.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/lesson1/task2/comments.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/lesson1/task2/task.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/lesson1/task2/tests.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/lesson10/task1/input.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/lesson10/task1/input1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/lesson10/task1/read_file.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/lesson10/task1/task.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/lesson10/task1/tests.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/lesson10/task2/output.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/lesson10/task2/task.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/lesson10/task2/tests.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/lesson10/task2/write_to_file.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/lesson2/task1/task.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/lesson2/task1/tests.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/lesson2/task1/variable_definition.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/lesson2/task2/task.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/lesson2/task2/tests.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/lesson2/task2/undefined_variable.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/lesson2/task3/task.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/lesson2/task3/tests.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/lesson2/task3/variable_type.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/lesson2/task4/task.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/lesson2/task4/tests.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/lesson2/task4/type_cast.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/lesson2/task5/arithmetic_operators.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/lesson2/task5/task.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/lesson2/task5/tests.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/lesson2/task6/assignments.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/lesson2/task6/task.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/lesson2/task6/tests.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/lesson2/task7/boolean_operators.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/lesson2/task7/task.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/lesson2/task7/tests.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/lesson2/task8/comparison_operators.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/lesson2/task8/task.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/lesson2/task8/tests.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/lesson3/task1/concatenation.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/lesson3/task1/task.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/lesson3/task1/tests.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/lesson3/task10/string_formatting.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/lesson3/task10/task.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/lesson3/task10/tests.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/lesson3/task2/string_multiplication.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/lesson3/task2/task.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/lesson3/task2/tests.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/lesson3/task3/string_indexing.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/lesson3/task3/task.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/lesson3/task3/tests.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/lesson3/task4/negative_indexing.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/lesson3/task4/task.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/lesson3/task4/tests.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/lesson3/task5/slicing.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/lesson3/task5/task.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/lesson3/task5/tests.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/lesson3/task6/in_operator.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/lesson3/task6/task.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/lesson3/task6/tests.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/lesson3/task7/len_function.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/lesson3/task7/task.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/lesson3/task7/tests.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/lesson3/task8/character_escaping.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/lesson3/task8/task.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/lesson3/task8/tests.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/lesson3/task9/string_methods.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/lesson3/task9/task.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/lesson3/task9/tests.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/lesson4/task1/lists.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/lesson4/task1/task.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/lesson4/task1/tests.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/lesson4/task2/list_operations.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/lesson4/task2/task.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/lesson4/task2/tests.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/lesson4/task3/list_items.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/lesson4/task3/task.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/lesson4/task3/tests.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/lesson4/task4/task.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/lesson4/task4/tests.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/lesson4/task4/tuples.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/lesson4/task5/dicts.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/lesson4/task5/task.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/lesson4/task5/tests.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/lesson4/task6/dict_key_value.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/lesson4/task6/task.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/lesson4/task6/tests.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/lesson4/task7/in_keyword.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/lesson4/task7/task.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/lesson4/task7/tests.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/lesson5/task1/boolean_operators.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/lesson5/task1/task.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/lesson5/task1/tests.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/lesson5/task2/boolean_order.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/lesson5/task2/task.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/lesson5/task2/tests.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/lesson5/task3/if_statement.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/lesson5/task3/task.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/lesson5/task3/tests.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/lesson5/task4/else_elif.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/lesson5/task4/task.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/lesson5/task4/tests.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/lesson6/task1/for_loop.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/lesson6/task1/task.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/lesson6/task1/tests.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/lesson6/task2/for_string.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/lesson6/task2/task.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/lesson6/task2/tests.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/lesson6/task3/task.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/lesson6/task3/tests.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/lesson6/task3/while_loop.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/lesson6/task4/break_keyword.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/lesson6/task4/task.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/lesson6/task4/tests.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/lesson6/task5/continue_keyword.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/lesson6/task5/task.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/lesson6/task5/tests.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/lesson7/task1/functions.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/lesson7/task1/task.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/lesson7/task1/tests.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/lesson7/task2/param_args.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/lesson7/task2/task.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/lesson7/task2/tests.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/lesson7/task3/return_keyword.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/lesson7/task3/task.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/lesson7/task3/tests.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/lesson7/task4/default_parameter.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/lesson7/task4/task.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/lesson7/task4/tests.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/lesson8/task1/class_definition.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/lesson8/task1/task.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/lesson8/task1/tests.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/lesson8/task2/access_variable.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/lesson8/task2/task.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/lesson8/task2/tests.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/lesson8/task3/access_variable.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/lesson8/task3/task.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/lesson8/task3/tests.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/lesson8/task4/self_parameter.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/lesson8/task4/task.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/lesson8/task4/tests.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/lesson8/task5/init_method.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/lesson8/task5/task.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/lesson8/task5/tests.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/lesson9/task1/calculator.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/lesson9/task1/imports.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/lesson9/task1/my_module.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/lesson9/task1/task.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/lesson9/task1/tests.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/lesson9/task2/builtin_modules.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/lesson9/task2/task.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/lesson9/task2/tests.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/lesson9/task3/calculator.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/lesson9/task3/from_import.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/lesson9/task3/my_module.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/lesson9/task3/task.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/lesson9/task3/tests.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonIntroduction/test_helper.py" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/homework/kevin_mongeon_nhl_pyth.ipynb" afterPath="$PROJECT_DIR$/01-pythagorean/homework/kevin_mongeon_nhl_pyth.ipynb" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jupyter Notebook" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/02-sports markets/homework/kevin_mongeon_sports_market.ipynb" />
+        <option value="$PROJECT_DIR$/02-sports markets/homework/02a-player_salaries.ipynb" />
+        <option value="$PROJECT_DIR$/02-sports markets/02a-player_salaries.ipynb" />
+        <option value="$PROJECT_DIR$/02-sports markets/homework/02a-kevin_mongeon_sports_market.ipynb" />
+        <option value="$PROJECT_DIR$/01-pythagorean/mlb_pyth.ipynb" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="56" />
+    <option name="y" value="24" />
+    <option name="width" value="1798" />
+    <option name="height" value="876" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="4P94" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="4P94" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="4P94" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="4P94" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="01-pythagorean" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/02-sports markets/homework" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/01-pythagorean" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="4P94" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="4P94" />
+      <method />
+    </configuration>
+    <configuration default="true" type="ccruntests" factoryName="Run Study Tests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="4P94" />
+      <option name="studyTest" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Attests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="4P94" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="4P94" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Nosetests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="4P94" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="4P94" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PUREUNITTEST" value="true" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="py.test">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="4P94" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="testToRun" value="" />
+      <option name="keywords" value="" />
+      <option name="params" value="" />
+      <option name="USE_PARAM" value="false" />
+      <option name="USE_KEYWORD" value="false" />
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>$USER_HOME$/.subversion</configuration>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="56" y="24" width="1798" height="876" extended-state="0" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19093484" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3293979" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3293979" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/PythonIntroduction/lesson3/task1/concatenation.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PythonIntroduction/lesson2/task3/task.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PythonIntroduction/lesson2/task3/variable_type.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02-sports markets/homework/kevin_mongeon_sports_market.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02-sports markets/homework/02a-player_salaries.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02-sports markets/02a-player_salaries.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02-sports markets/homework/02a-kevin_mongeon_sports_market.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01-pythagorean/mlb_pyth.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="1" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
