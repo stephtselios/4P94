@@ -6,7 +6,9 @@
 
 ## Feb 7: Bayes Rule
 
+## Feb 28 Practice test
 
+## Feb 7 Test (inclass, open book)
 
 # Resources
 
