@@ -8,7 +8,13 @@
 
 ## Feb 28 Practice test
 
-## Feb 7 Test (inclass, open book)
+## March 7 Test (inclass, open book)
+
+## March 21 Derived statistics
+
+## March 28 In-game win probability
+
+## April 5 Projects
 
 # Resources
 
@@ -16,7 +22,7 @@
 
 https://github.com/fonnesbeck/statistical-analysis-python-tutorial
 
-## Python introduction
+
 
 
 
