@@ -16,7 +16,7 @@
 
 ## April 5 Projects
 
-### Assessment ruberic
+### Assessment rubric
 
 #### Analysis
 Points | Level
